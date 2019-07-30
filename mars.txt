@@ -2,3 +2,5 @@
 Cold and dry but everything is my favorite color.
 The two moons may be a problem for wolfman.
 Edit
+I'm adding some text to mars.txt
+Venus as a base
